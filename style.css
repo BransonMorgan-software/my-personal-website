@@ -29,3 +29,19 @@ h3 {
     display: block;
     margin: auto;
 }
+#intro p {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+    display: auto;
+    font-size: larger;
+}
+#intro strong {
+    display: block;
+}
+#intro h2 {
+    text-align:center;
+}
+#intro span {
+    background: deepskyblue;
+    padding: 10px;
+}
