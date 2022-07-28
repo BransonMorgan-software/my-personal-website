@@ -2,9 +2,7 @@ body {
     background: white;
 
 }
- h1 {
-    text-align: center;
-}
+ 
 #About-me {
     background-color:rgb(70, 68, 68);
     position:absolute;
@@ -26,4 +24,8 @@ h3 {
     text-align: center;
     color:deepskyblue;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#intro img {
+    display: block;
+    margin: auto;
 }
